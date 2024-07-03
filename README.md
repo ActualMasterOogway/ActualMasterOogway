@@ -1,16 +1,46 @@
-## Hi there 👋
 
-<!--
-**ActualMasterOogway/ActualMasterOogway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐&nbsp;Contacts
+<br/>
+  <div style="display: flex; align-items: center;">
+    <a href="https://mail:realmasteroogway.contact@gmail.com" target="_blank">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" height="75em" width="75rem"/>
+    </a>
+    <a href="https://discord.com/users/820039511236411463" target="_blank">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=discord" height="75em" width="75rem"/>
+    </a>
+  </div>
+<br/><br/>
 
-Here are some ideas to get you started:
+### 🛠 &nbsp;Proficient Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> 
+  <a href="https://github.com/ActualMasterOogway">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,scss,vue,cpp,go,haxeflixel,py,ts,luau"> 
+  </a> 
+</p>
+
+### 🛠 &nbsp;Languages with Basic Knowledge
+
+<p align="left"> 
+  <a href="https://github.com/ActualMasterOogway">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=bash,cs,git,nodejs,postgres,vite,fortran"> 
+  </a> 
+</p>
+
+### 🛠 &nbsp;Tools Utilized
+
+<p align="left"> 
+  <a href="https://github.com/ActualMasterOogway">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,postgres,docker,opencv,cmake,figma,stackoverflow,visualstudio,vscode,obsidian,proton,brave,premiere,illustrator,photoshop,lightroom,insomnia"> 
+  </a> 
+</p>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<br/><p align="center">
+<a href="https://github.com/ActualMasterOogway">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ActualMasterOogway&theme=github_dark"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ActualMasterOogway&theme=github_dark"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ActualMasterOogway&theme=github_dark"/>
+</a>
+</p>
