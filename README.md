@@ -25,7 +25,7 @@
 
 <p align="left"> 
   <a href="https://github.com/ActualMasterOogway">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=bash,cs,nodejs,js,vite,fortran"> 
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=bash,cs,nodejs,js,fortran"> 
   </a> 
 </p>
 
@@ -33,7 +33,7 @@
 
 <p align="left"> 
   <a href="https://github.com/ActualMasterOogway">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,git,postgres,docker,opencv,cmake,figma,stackoverflow,visualstudio,vscode,obsidian,proton,brave,premiere,illustrator,photoshop,lightroom,insomnia"> 
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,vite,git,postgres,docker,opencv,cmake,figma,stackoverflow,visualstudio,vscode,obsidian,proton,brave,premiere,illustrator,photoshop,lightroom,insomnia"> 
   </a> 
 </p>
 
