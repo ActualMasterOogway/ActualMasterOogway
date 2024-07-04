@@ -1,15 +1,17 @@
 
 ### 🌐&nbsp;Contacts
-<br/>
-  <div style="display: flex; align-items: center;">
-    <a href="https://mail:realmasteroogway.contact@gmail.com" target="_blank">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" height="75em" width="75rem"/>
-    </a>
-    <a href="https://discord.com/users/820039511236411463" target="_blank">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=discord" height="75em" width="75rem"/>
-    </a>
-  </div>
-<br/><br/>
+
+<div style="display: flex; align-items: center;">
+  <a href="mailto:realmasteroogway.contact@gmail.com" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" height="75em" width="75rem"/>
+  </a>
+  <a href="https://discord.com/users/820039511236411463" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=discord" height="75em" width="75rem"/>
+  </a>
+  <a href="https://v3rm.net/members/derkleinetiger.6431/" target="_blank">
+    <img src="https://cdn.s-studs.com/favicon.ico" height="75em" width="75rem"/>
+  </a>
+</div>
 
 ### 🛠 &nbsp;Proficient Languages
 
