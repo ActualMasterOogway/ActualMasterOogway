@@ -17,7 +17,7 @@
 
 <p align="left"> 
   <a href="https://github.com/ActualMasterOogway">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,scss,vue,cpp,go,haxe,py,ts,luau"> 
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=luau,haxe,html,scss,vue,cpp,go,haxe,py,ts"> 
   </a> 
 </p>
 
