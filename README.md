@@ -1,4 +1,4 @@
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ActualMasterOogway&right_color=%23262626&left_color=%23121212)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ActualMasterOogway&right_color=%23262626&left_color=%2312121)
 ![Static Badge](https://img.shields.io/badge/6%20years-FFFFFF?logo=lua&label=developer&labelColor=%23121212&color=%23262626)
 
 ### 🌐&nbsp;Contacts
