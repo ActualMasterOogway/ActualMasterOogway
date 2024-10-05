@@ -1,6 +1,12 @@
 ![Static Badge](https://img.shields.io/badge/6%20years-FFFFFF?logo=lua&label=developer&labelColor=%23121212&color=%23262626)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ActualMasterOogway&right_color=%23262626&left_color=%2312121)
 
+<div align="center">
+  <a href="https://discord.com/users/820039511236411463">
+    <img src="https://lanyard.cnrad.dev/api/820039511236411463" alt="Discord Presence">
+  </a>
+</div>
+
 ### 🌐&nbsp;Contacts
 
 <div style="display: flex; align-items: center;">
