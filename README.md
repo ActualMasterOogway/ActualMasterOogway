@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/6%20years-FFFFFF?logo=lua&label=developer&labelColor=%23121212&color=%23262626)
+![Static Badge](https://img.shields.io/badge/7%20years-FFFFFF?label=developer&labelColor=%23121212&color=%23262626&logo=lua)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ActualMasterOogway&right_color=%23262626&left_color=%2312121)
 
 <div align="center">
@@ -25,15 +25,7 @@
 
 <p align="left"> 
   <a href="https://github.com/ActualMasterOogway">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=luau,haxe,html,scss,vue,cpp,go,haxe,py,ts"> 
-  </a> 
-</p>
-
-### 🛠 &nbsp;Languages with Basic Knowledge
-
-<p align="left"> 
-  <a href="https://github.com/ActualMasterOogway">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=bash,cs,nodejs,js,fortran"> 
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=luau,haxe,scss,vue,cpp,go,ts"> 
   </a> 
 </p>
 
@@ -41,7 +33,7 @@
 
 <p align="left"> 
   <a href="https://github.com/ActualMasterOogway">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,vite,git,postgres,docker,opencv,cmake,figma,stackoverflow,visualstudio,vscode,obsidian,proton,brave,premiere,illustrator,photoshop,lightroom,insomnia"> 
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,git,postgres,docker,opencv,cmake,figma,zed,obsidian,brave"> 
   </a> 
 </p>
 
